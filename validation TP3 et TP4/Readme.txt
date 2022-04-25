@@ -1,0 +1,2 @@
+je commences par connecter mon bot au serveur j'ai importer discord ensuite je connecte le client à mon bot ensuite je mets mon bot en ligne  en important mon Token dans le script
+et là mon bot est lancé j'interroge le shodan dans le but qu'il puisse compter les adresses ip valides dans l'intervalle que je lui ai donner.le bot va alors  poster le message de reponse sur discord. j'ai pas pu finir car j'essayais de corriger les erreurs pour afficher dans discord il n'y avait pus de temp
